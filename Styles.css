@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: white;
+}
+h1{
+color: blue;
+font-size: 50px;
+text-align: center;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+h3{
+  text-align: center;
+  color: white;
+}
+h4{
+text-align: center;
+color: white;
+font-size: 20px;
+font-family: 'Estonia', cursive;
+}
+h5{
+color:gray;
+text-align: center;
+letter-spacing: 1px;
+font-size: 15px;
+}
+p{
+  color: gray;
+  text-align: center;
+}
+
+ul{
+text-align: center;
+list-style-position: inside;
+}
